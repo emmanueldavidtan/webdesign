@@ -1,4 +1,7 @@
 body { 
+    margin-bottom: 100px;
+    min-height: 400px;
+    clear: both;
     opacity: 0;
     transition: opacity .5s;
  }
